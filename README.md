@@ -21,12 +21,12 @@
 
 # Features
   - ## Loader and smooth sections appearance
-  ![Loader and smooth sections appearance](present.gif)
-  ![Loader and smooth sections appearance](containers.gif)
+  ![Loader and smooth sections appearance](./src/images/for-readme/present.gif)
+  ![Loader and smooth sections appearance](./src/images/for-readme/containers.gif)
   <br />
 
   - ## Response gallery carousel
-  ![Response gallery carousel](gallery.gif)
+  ![Response gallery carousel](./src/images/for-readme/gallery.gif)
 
 ## How to run
 1. Install node v. 14.18.0
