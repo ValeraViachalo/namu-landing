@@ -3,6 +3,7 @@
 .gallery {
   &__title {
     margin-top: 183px;
+    padding-bottom: 0;
 
     @include onTablet {
       margin-top: 208px;
